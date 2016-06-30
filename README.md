@@ -1,2 +1,2 @@
 # hello-world
-This is my first and hopefully not last repository
+This is my first and hopefully not last Git-repository
